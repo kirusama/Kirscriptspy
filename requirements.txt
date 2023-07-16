@@ -1,2 +1,2 @@
 requests
-os
+google-drive-py
